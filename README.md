@@ -24,18 +24,13 @@ The application is fully containerized with Docker for easy setup and deployment
 
 ---
 
-## Getting Started
-
-You can run this project either using Docker (recommended for ease of use) or in a local Python environment.
-
-
 ### 1. Configuration
 
 Before running the application, you need to set up your environment variables.
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/AnantSom/MCQ-Generator-Topic-.git
+    git clone https://github.com/AnantSom/ai-mcq-generator.git
     cd mcq-topic
     ```
 
